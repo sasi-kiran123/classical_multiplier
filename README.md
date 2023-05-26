@@ -16,3 +16,14 @@ Result Accumulation: The intermediate sums from the previous stage are accumulat
 The implementation of a classical multiplier can vary depending on the specific design requirements, such as the desired speed, power consumption, area constraints, and technology used. Various optimization techniques, such as Wallace tree multiplication or Booth encoding, can be employed to improve the efficiency of the multiplier circuit.
 
 It's important to note that while classical multipliers are widely used, there are also alternative multiplier architectures, such as parallel multipliers, array multipliers, or even dedicated hardware for multiplication operations, like multipliers based on logarithmic number systems (LNS) or redundant number systems (RNS), which offer different trade-offs in terms of performance, area, and power consumption.
+
+
+
+### schematic:
+
+![image](https://github.com/sasi-kiran123/classical_multiplier/assets/75782906/af501dca-968d-4a9c-b874-5356b7b7a23c)
+
+
+### physical Design :
+
+![image](https://github.com/sasi-kiran123/classical_multiplier/assets/75782906/b251f3a5-2e4d-41b9-87d5-3b3664e270e5)
